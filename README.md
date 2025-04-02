@@ -7,7 +7,7 @@ Um servidor web desenvolvido com Node.js e Express, oferecendo um painel adminis
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/admin-panel-express.git
+   git clone [https://github.com/seu-usuario/admin-panel-express.git](https://github.com/Matheus-Oli/admin-panel-express)
    ```
 3. Acesse o diretório do projeto:
    ```bash
@@ -22,8 +22,7 @@ Um servidor web desenvolvido com Node.js e Express, oferecendo um painel adminis
    npm run start
    ```
 6. Acesse as rotas no navegador:
-   - `/` - Página inicial
-   - `/login` - Página de login
+   - `/login ou /` - Página de login
    - `/register` - Página de cadastro
    - `/forgot-password` - Recuperação de senha
    - `/index` - Painel administrativo
