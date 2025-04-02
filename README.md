@@ -24,6 +24,6 @@ Um servidor web desenvolvido com Node.js e Express, oferecendo um painel adminis
 6. Acesse as rotas no navegador:
    - `/` - Página inicial
    - `/login` - Página de login
-   - `/cadastro` - Página de cadastro
-   - `/esqueci-senha` - Recuperação de senha
-   - `/dashboard` - Painel administrativo
+   - `/register` - Página de cadastro
+   - `/forgot-password` - Recuperação de senha
+   - `/index` - Painel administrativo
